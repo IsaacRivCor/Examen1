@@ -1,0 +1,15 @@
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.exe
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.deps.json
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.runtimeconfig.json
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.dll
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\ref\JuegoDados.dll
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\bin\Debug\net6.0\JuegoDados.pdb
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.AssemblyReference.cache
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfoInputs.cache
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.AssemblyInfo.cs
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.csproj.CoreCompileInputs.cache
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.dll
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\ref\JuegoDados.dll
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.pdb
+D:\CuartoSemestre\programacionVisual\JuegoDados\JuegoDados\obj\Debug\net6.0\JuegoDados.genruntimeconfig.cache
